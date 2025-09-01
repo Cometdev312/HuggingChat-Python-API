@@ -160,3 +160,6 @@ This is not an official [Hugging Face](https://huggingface.co/) product. This is
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Soulter/hugging-chat-api&type=Date)](https://star-history.com/#Soulter/hugging-chat-api&Date)
+
+If you have any qestion with this project, feel free to reach out!
+
