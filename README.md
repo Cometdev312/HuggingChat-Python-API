@@ -127,6 +127,10 @@ CLI params:
 - `-p` : Force request password to login, ignores saved cookies.
 - `-s` : Enable streaming mode output in CLI.
 - `-c` : Continue previous conversation in CLI ".
+- - `-u <your huggingface email>` : Provide account email to login.
+- `-p` : Force request password to login, ignores saved cookies.
+- `-s` : Enable streaming mode output in CLI.
+- `-c` : Continue previous conversation in CLI ".
 
 Commands in cli mode:
 
@@ -161,5 +165,5 @@ This is not an official [Hugging Face](https://huggingface.co/) product. This is
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Soulter/hugging-chat-api&type=Date)](https://star-history.com/#Soulter/hugging-chat-api&Date)
 
-If you have any qestion with this project, feel free to reach out!
+`If you have any qestion with this project, feel free to reach out!`
 
